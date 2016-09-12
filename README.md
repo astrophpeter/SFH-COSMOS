@@ -12,7 +12,7 @@ All of this analysis was performed using [ULTRA-VISTA catalog data](https://www.
 
 * ```Darvish2015.xml``` Obtained from the Darvish et al (2015) paper [1] - relevant column is 'logdel' which is the overdensity values $\log(1+\delta)$. Note this overdensity was calculated using a technique called Voronoi Tessellation.
 
-* ```UVISTA_full_v4.1.fits``` Obtaied from the ULTRAVISTA data product downloads page linked above (K-selected). This is all data product downloads stiched together. See table below detailing relevant columns names and descriptions
+* ```UVISTA_full_v4.1.fits``` Obtaied from the ULTRAVISTA data product downloads page linked above (K-selected). This is all data product downloads stiched together. The paper corresponding to this data is [2]. See table below detailing relevant columns names and descriptions
 
 <center>
 
@@ -33,9 +33,10 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 
 
 ## Refernces
-[1] Darvish, Behnam, et al. "A comparative study of density field estimation for galaxies: New insights into the evolution of galaxies with environment in cosmos out to Z∼ 3." The Astrophysical Journal 805.2 (2015): 121. DOI: 
-[10.1088/0004-637X/805/2/121](
-10.1088/0004-637X/805/2/121)
+[1] Darvish, Behnam, et al. "A comparative study of density field estimation for galaxies: New insights into the evolution of galaxies with environment in cosmos out to Z∼ 3." The Astrophysical Journal 805.2 (2015): 121. DOI:
+[10.1088/0004-637X/805/2/121](10.1088/0004-637X/805/2/121)
+
+[2] Muzzin, Adam, et al. "A PUBLIC Ks-SELECTED CATALOG IN THE COSMOS/ULTRAVISTA FIELD: PHOTOMETRY, PHOTOMETRIC REDSHIFTS, AND STELLAR POPULATION PARAMETERS. The Astrophysical Journal Supplement Series 206.1 (2013): 8. DOI: [10.1088/0067-0049/206/1/8](10.1088/0067-0049/206/1/8)
 
 
 
