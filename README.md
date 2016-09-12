@@ -8,7 +8,7 @@
 
 All of this analysis was performed using [ULTRA-VISTA catalog data](https://www.strw.leidenuniv.nl/galaxyevolution/ULTRAVISTA/Ultravista/K-selected.html), Galaxy Zoo Hubble Morpholgy data, Overdensity data from Darvish et al (2015) [1].
 
-* ```GalaxyZoo.fits``` Obtained from Brooke Simmons - Galaxy Zoo morpholgical data - note this does not include debiased vote fractions, in orted to select a good sample of galaxy with particular feature see Galaxy zoo data paper.
+* ```GalaxyZoo.fits``` Obtained from Brooke Simmons - Galaxy Zoo morpholgical data - note this does not include debiased vote fractions, in orted to select a good sample of galaxy with particular feature see Galaxy zoo data paper [3].
 
 * ```Darvish2015.xml``` Obtained from the Darvish et al (2015) paper [1] - relevant column is 'logdel' which is the overdensity values $\log(1+\delta)$. Note this overdensity was calculated using a technique called Voronoi Tessellation.
 
@@ -37,6 +37,8 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 [10.1088/0004-637X/805/2/121](10.1088/0004-637X/805/2/121)
 
 [2] Muzzin, Adam, et al. "A PUBLIC Ks-SELECTED CATALOG IN THE COSMOS/ULTRAVISTA FIELD: PHOTOMETRY, PHOTOMETRIC REDSHIFTS, AND STELLAR POPULATION PARAMETERS. The Astrophysical Journal Supplement Series 206.1 (2013): 8. DOI: [10.1088/0067-0049/206/1/8](10.1088/0067-0049/206/1/8)
+
+[3] Galaxy Zoo: Morphological Classifications for 120,000 Galaxies in HST Legacy Imaging Paper current being written can be found in this [rep](https://github.com/willettk/gzhubble/blob/master/writeup/gz_hubble_data.pdf)
 
 
 
