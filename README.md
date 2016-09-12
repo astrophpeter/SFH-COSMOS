@@ -27,7 +27,7 @@ All of this analysis was performed using [ULTRA-VISTA catalog data](https://www.
 | UmV                | U - V rest frame colour           | Calcualted using the EAZY code. Note no errors, this is addressed later |
 | USE_1              | Flag                              | This selects galaxies with good photometry S/N > 5.    |
 
-The catalog also contains apeture fluxes for many bands with errors.
+The catalog also contains apeture fluxes for many bands with errors. Other data files are combinated of the above files, and are named apropriately. They were matched equally with TOPCAT by ra and dec with error +- 3.0.
 
 </center>
 
