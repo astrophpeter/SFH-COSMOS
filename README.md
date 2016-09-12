@@ -4,6 +4,8 @@
 
 ``data/``
 
+*(download link in data folder as files to big to host on github)*
+
 All of this analysis was performed using [ULTRA-VISTA catalog data](https://www.strw.leidenuniv.nl/galaxyevolution/ULTRAVISTA/Ultravista/K-selected.html), Galaxy Zoo Hubble Morpholgy data, Overdensity data from Darvish et al (2015), and Stellar-Mass data from Ilbert et al (2013).
 
 * ```GalaxyZoo.fits``` Obtained from Brooke Simmons - Galaxy Zoo morpholgical data - note this does not include debiased vote fractions, in orted to select a good sample of galaxy with particular feature see Galaxy zoo data paper.
