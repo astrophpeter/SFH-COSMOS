@@ -38,7 +38,7 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 
 [2] Muzzin, Adam, et al. "A PUBLIC Ks-SELECTED CATALOG IN THE COSMOS/ULTRAVISTA FIELD: PHOTOMETRY, PHOTOMETRIC REDSHIFTS, AND STELLAR POPULATION PARAMETERS. The Astrophysical Journal Supplement Series 206.1 (2013): 8. DOI: [10.1088/0067-0049/206/1/8](10.1088/0067-0049/206/1/8)
 
-[3] Galaxy Zoo: Morphological Classifications for 120,000 Galaxies in HST Legacy Imaging Paper current being written can be found in this [rep](https://github.com/willettk/gzhubble/blob/master/writeup/gz_hubble_data.pdf)
+[3] Galaxy Zoo: Morphological Classifications for 120,000 Galaxies in HST Legacy Imaging Paper current being written can be found in this [repo](https://github.com/willettk/gzhubble/blob/master/writeup/gz_hubble_data.pdf)
 
 
 
