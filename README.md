@@ -22,7 +22,7 @@ All of this analysis was performed using [ULTRA-VISTA catalog data](https://www.
 | z_peak             | Best value of redshift            | In all analysis the value for redhsit used is z_peak   |
 | SFR_IR             |                                   |    $1                                                  |              
 | SFR_UV             |                                   |                                                        |
-| SFR_tot            | Total Star formation rate         | Sum of UV and IR SFRs, **we dont include SFR_tot where <br> SFR_IR < 0** | 
+| SFR_tot            | Total Star formation rate         | Sum of UV and IR SFRs, **we dont include SFR_tot where <br> SFR_IR < 0**, because Negative values of SFR indicate -1.0*(upper limit SFR) from MIPS-24um                                     | 
 
 </center>
 
