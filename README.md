@@ -18,11 +18,16 @@ All of this analysis was performed using [ULTRA-VISTA catalog data](https://www.
 
 | Column Name        | Meaning                           | Detail                                                 |
 | -------------------|:----------------------------------|--------------------------------------------------------|
-| LMASS_1            | Stellar Mass - $\log(mass/M_sol)$ | Log (base 10) of the stellar mass of the galaxy        |
+| LMASS_1            | Stellar Mass - $\log(mass/M_sol)$ | Log (base 10) of the stellar mass of the galaxy, calculated <b> using the BC03 SPS Model, using the FAST code, details on ULTRAVISTA catalog website.                                               |
 | z_peak             | Best value of redshift            | In all analysis the value for redhsit used is z_peak   |
-| SFR_IR             |                                   |    $1                                                  |              
-| SFR_UV             |                                   |                                                        |
+| SFR_IR             | SFR from IR Luminosity            | Negative values of SFR indicate -1.0*(upper limit SFR) <br> from MIPS-24um | 
+| SFR_UV             | SFR form UV Luminosity            |                                                        |
 | SFR_tot            | Total Star formation rate         | Sum of UV and IR SFRs, **we dont include SFR_tot where <br> SFR_IR < 0**, because Negative values of SFR indicate -1.0*(upper limit SFR) from MIPS-24um                                     | 
+| VmJ                | V - J rest frame colour           | Calculated using the EAZY code. Note no errors, this is addressed later |
+| UmV                | U - V rest frame colour           | Calcualted using the EAZY code. Note no errors, this is addressed later |
+| USE_1              | Flag                              | This selects galaxies with good photometry S/N > 5.    |
+
+The catalog also contains apeture fluxes for many bands with errors.
 
 </center>
 
