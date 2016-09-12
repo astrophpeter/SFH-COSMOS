@@ -6,15 +6,14 @@
 
 *(download link in data folder as files to big to host on github)*
 
-All of this analysis was performed using [ULTRA-VISTA catalog data](https://www.strw.leidenuniv.nl/galaxyevolution/ULTRAVISTA/Ultravista/K-selected.html), Galaxy Zoo Hubble Morpholgy data, Overdensity data from Darvish et al (2015) [1].
+All of this analysis was performed using [ULTRA-VISTA catalog data](https://www.strw.leidenuniv.nl/galaxyevolution/ULTRAVISTA/Ultravista/K-selected.html), Galaxy Zoo Hubble (GZH) Morpholgy data, Overdensity data from Darvish et al (2015) [1].
 
-* ```GalaxyZoo.fits``` Obtained from Brooke Simmons - Galaxy Zoo morpholgical data - note this does not include debiased vote fractions, in orted to select a good sample of galaxy with particular feature see Galaxy zoo data paper [3].
+* ```GalaxyZoo.fits``` Obtained from Brooke Simmons - GZH data - note this does not include debiased vote fractions, in orted to select a good sample of galaxy with particular feature see GZH paper [3].
 
 * ```Darvish2015.xml``` Obtained from the Darvish et al (2015) paper [1] - relevant column is 'logdel' which is the overdensity values $\log(1+\delta)$. Note this overdensity was calculated using a technique called Voronoi Tessellation.
 
 * ```UVISTA_full_v4.1.fits``` Obtaied from the ULTRAVISTA data product downloads page linked above (K-selected). This is all data product downloads stiched together. The paper corresponding to this data is [2]. See table below detailing relevant columns names and descriptions
 
-<center>
 
 | Column Name        | Meaning                           | Detail                                                 |
 | -------------------|:----------------------------------|--------------------------------------------------------|
@@ -29,7 +28,11 @@ All of this analysis was performed using [ULTRA-VISTA catalog data](https://www.
 
 The catalog also contains apeture fluxes for many bands with errors. Other data files are combinated of the above files, and are named apropriately. They were matched equally with TOPCAT by ra and dec with error +- 3.0.
 
-</center>
+
+
+``muzzing2013Fig9/``
+This contains a recreated version of Figure 9 from Muzzing et al (2013) [2]. With GZH morphology overlaid. We colour galaxies with P_{feature} > 0.7 in Blue and and galaxies with P_{smooth} > 0.8 in red. The dividing green line separates Star-forming and Quiescent galaxies.
+
 
 
 ## Refernces
