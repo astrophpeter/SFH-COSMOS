@@ -16,10 +16,16 @@ All of this analysis was performed using [ULTRA-VISTA catalog data](https://www.
 
 <center>
 
-| Column Name        | Meaning          | Detail  |
-| -------------------|:---------------:| -------:|
-| LMASS_1            | Stellar Mass - $\log(mass/M_sol)$| Log (base 10) of the stellar mass of the galaxy|
-| z_peak             | Best value of redshift | In all analysis the value for redhsit used is z_peak   |
-| zebra stripes      | are neat         |    $1   |
+| Column Name        | Meaning                           | Detail                                                 |
+| -------------------|:----------------------------------|--------------------------------------------------------|
+| LMASS_1            | Stellar Mass - $\log(mass/M_sol)$ | Log (base 10) of the stellar mass of the galaxy        |
+| z_peak             | Best value of redshift            | In all analysis the value for redhsit used is z_peak   |
+| SFR_IR             |                                   |    $1                                                  |              
+| SFR_UV             |                                   |                                                        |
+| SFR_tot            | Total Star formation rate         | Sum of UV and IR SFRs, **we dont include SFR_tot where <br> SFR_IR < 0** | 
 
 </center>
+
+
+## Refernces
+
