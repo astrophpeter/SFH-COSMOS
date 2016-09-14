@@ -50,8 +50,9 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 
 * ``Darvish2016Fig1AllMorph.pdf`` This is a version of Figure 1 from Darvish et al (2016) [6] using all galaxies (SF+Quiescent), with GZH Hubble smooth/feature morphology overlaid. ONly first two redshift bins plotted dues to lack of data points at higher redshifts.
 
-* 
+* ``Darvish2016Fig1SFMorph.pdf`` This is a version of Figure 1 from Darvish et al (2016) [6] using star forming galaxies only, with GZH Hubble smooth/feature morphology overlaid. ONly first two redshift bins plotted dues to lack of data points at higher redshifts.
 
+* ````Darvish2016Fig1SFMorph.py`` Generating code for ``Darvish2016Fig1SFMorph.pdf``.
 
 ## Refernces
 [1] Darvish, Behnam, et al. "A comparative study of density field estimation for galaxies: New insights into the evolution of galaxies with environment in cosmos out to Z∼ 3." The Astrophysical Journal 805.2 (2015): 121. DOI:
