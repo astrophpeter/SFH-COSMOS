@@ -42,6 +42,10 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 
 * ``Muzzin2013Fig9Mass.py`` Generating code for ``Muzzin2013Fig9Mass.pdf``.
 
+* ``Muzzin2013Fig9bar.pdf`` Version of Muzzin et al (2013) Fig 9 but split by Bar / not Bar galaxies coloured by red and black respectively. A sample of Bar galaxies was chosen using Table 11 in [4] - P_{feature} > 0.23 -> P_{clumpy,n0} > 0.3 -> P_{edgeon, no} > 0.25 -> P_{bar} > 0.7. 
+
+* ``Muzzin2013Fig9bar.pdf`` Generating code for ``Muzzin2013Fig9bar.pdf``.
+
 
 
 
