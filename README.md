@@ -17,7 +17,7 @@ All of this analysis was performed using [ULTRA-VISTA catalog data](https://www.
 
 | Column Name        | Meaning                           | Detail                                                 |
 | -------------------|:----------------------------------|--------------------------------------------------------|
-| LMASS_1            | Stellar Mass - $\log(mass/M_sol)$ | Log (base 10) of the stellar mass of the galaxy, calculated <br> using the BC03 SPS Model, using the FAST code, details on ULTRAVISTA catalog website.                                               |
+| LMASS_1            | Stellar Mass - $\log(mass/M_sol)$ | Log (base 10) of the stellar mass of the galaxy, calculated <br> using the BC03 SPS Model, using the FAST code, details on ULTRAVISTA catalog website. Note on Solar metalicity: made with a Chabrier IMF and Padova 1994 isochrones                                              |
 | z_peak             | Best value of redshift            | In all analysis the value for redhsit used is z_peak   |
 | SFR_IR             | SFR from IR Luminosity            | Negative values of SFR indicate -1.0*(upper limit SFR) <br> from MIPS-24um | 
 | SFR_UV             | SFR form UV Luminosity            |                                                        |
