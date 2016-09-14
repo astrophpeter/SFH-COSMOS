@@ -46,8 +46,9 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 
 * ``Muzzin2013Fig9bar.py`` Generating code for ``Muzzin2013Fig9bar.pdf``.
 
+``Darvish2016Fig1/``
 
-
+* ``Darvish2016Fig1AllMorph.pdf`` This is a version of Figure 1 from Darvish et al (2016). [6] 
 
 
 ## Refernces
@@ -63,5 +64,4 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 [5] Kauffmann, Guinevere, et al. "The dependence of star formation history and internal structure on stellar mass for 105 low-redshift galaxies." Monthly Notices of the Royal Astronomical Society 341.1 (2003): 54-69. DOI:
 [10.1046/j.1365-8711.2003.06292.x](10.1046/j.1365-8711.2003.06292.x)
 
-
-
+[6] Darvish, Behnam, et al. "Effects of Local Environment and Stellar Mass on Galaxy Quenching out to z~ 3." arXiv preprint arXiv:1605.03182 (2016). DOI: [10.3847/0004-637X/825/2/113](10.3847/0004-637X/825/2/113)
