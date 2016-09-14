@@ -56,6 +56,9 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 
 * ``Darvish2016Fig1SFMorph.py`` Generating code for ``Darvish2016Fig1SFMorph.pdf``.
 
+``Darvish2016Fig2/``
+
+* 
 ## Refernces
 [1] Darvish, Behnam, et al. "A comparative study of density field estimation for galaxies: New insights into the evolution of galaxies with environment in cosmos out to Z∼ 3." The Astrophysical Journal 805.2 (2015): 121. DOI:
 [10.1088/0004-637X/805/2/121](10.1088/0004-637X/805/2/121)
