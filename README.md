@@ -32,7 +32,10 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 
 ``muzzing2013Fig9/``
 
+* ``idl.mplstyle`` Makes the python plots look waaaay better :)
+
 *  ``Muzzin2013Fig9Morph.pdf`` This is a recreated version of Figure 9 from Muzzing et al (2013) [2]. With GZH morphology overlaid. We colour galaxies with P_{feature} > 0.7 in Blue and and galaxies with P_{smooth} > 0.8 in red. The dividing green line separates Star-forming and Quiescent galaxies, this line is taken from a follow-up paper by the same author [citation needed]. We only include the first two redshift bins as for z > 1 we dont have a significant volume of GZH classifications.
+
 *  ``Muzzin2013Fig9Morph.py`` Generating code for ``Muzzin2013Fig9Morph.pdf``.
 
 
