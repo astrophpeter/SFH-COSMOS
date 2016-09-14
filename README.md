@@ -48,7 +48,9 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 
 ``Darvish2016Fig1/``
 
-* ``Darvish2016Fig1AllMorph.pdf`` This is a version of Figure 1 from Darvish et al (2016). [6] 
+* ``Darvish2016Fig1AllMorph.pdf`` This is a version of Figure 1 from Darvish et al (2016) [6] using all galaxies (SF+Quiescent), with GZH Hubble smooth/feature morphology overlaid. ONly first two redshift bins plotted dues to lack of data points at higher redshifts.
+
+* 
 
 
 ## Refernces
