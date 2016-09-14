@@ -38,6 +38,11 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 
 *  ``Muzzin2013Fig9Morph.py`` Generating code for ``Muzzin2013Fig9Morph.pdf``.
 
+* ``Muzzin2013Fig9Mass.pdf`` Version of Muzzin et al (2013) [2] but with galaxies split my High / Low Stellar mass. Where High Low mas <>  log(M/M_sol) <> 10 define by Kauffman et al 2003 [5].
+
+* ``Muzzin2013Fig9Mass.py`` Generating code for ``Muzzin2013Fig9Mass.pdf``.
+
+
 
 
 
@@ -48,6 +53,11 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 [2] Muzzin, Adam, et al. "A PUBLIC Ks-SELECTED CATALOG IN THE COSMOS/ULTRAVISTA FIELD: PHOTOMETRY, PHOTOMETRIC REDSHIFTS, AND STELLAR POPULATION PARAMETERS. The Astrophysical Journal Supplement Series 206.1 (2013): 8. DOI: [10.1088/0067-0049/206/1/8](10.1088/0067-0049/206/1/8)
 
 [3] Galaxy Zoo: Morphological Classifications for 120,000 Galaxies in HST Legacy Imaging Paper current being written can be found in this [repo](https://github.com/willettk/gzhubble/blob/master/writeup/gz_hubble_data.pdf)
+
+[4] Muzzin follow up paper.
+
+[5] Kauffmann, Guinevere, et al. "The dependence of star formation history and internal structure on stellar mass for 105 low-redshift galaxies." Monthly Notices of the Royal Astronomical Society 341.1 (2003): 54-69. DOI:
+[10.1046/j.1365-8711.2003.06292.x](10.1046/j.1365-8711.2003.06292.x)
 
 
 
