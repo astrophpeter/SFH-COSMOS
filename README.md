@@ -63,7 +63,7 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 
 ''starpy/''
 
-All analysis in this section was done with a modified version of starpy. The only place this code was changed was the filter specific part. Where filters where reaplced with the corrected filters for the COSMOS survey.
+All analysis in this section was done with a modified version of starpy. The only place this code was changed was the filter specific part. Where filters where reaplced with the corrected filters for the COSMOS survey. This code was run on the Glamdring compute cluster, and the output saved to my account. 
 
 
 ## Refernces
