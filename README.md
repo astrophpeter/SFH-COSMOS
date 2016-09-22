@@ -101,3 +101,5 @@ Running the multirun smethhurst command in this directory with a queue and numbe
 [10.1046/j.1365-8711.2003.06292.x](10.1046/j.1365-8711.2003.06292.x)
 
 [6] Darvish, Behnam, et al. "Effects of Local Environment and Stellar Mass on Galaxy Quenching out to z~ 3." arXiv preprint arXiv:1605.03182 (2016). DOI: [10.3847/0004-637X/825/2/113](10.3847/0004-637X/825/2/113)
+
+[7] Brammer, Gabriel B., Pieter G. van Dokkum, and Paolo Coppi. "EAZY: A fast, public photometric redshift code." The Astrophysical Journal 686.2 (2008): 1503. DOI
