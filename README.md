@@ -90,13 +90,18 @@ adds a job to th cmb queue using 2 cores, runing all the sets of parameters foun
 
 I've run this over the whole COMSMOS sample that we have GZH morphologies for. Saved on my glamdring account is the following output. Walker positions named as:
 
-```samples_...
+```
+samples_...
+
 ```
 
 and coresponding logrithmic probabilities named as 
 
-```lnprob_...
 ```
+lnprob_...
+
+```
+
 * ``process.py`` combines all the starpyoutput on glamdring. Drops walker postions with probabilty < 0.2 and also weights by the logrithmic probabilty. Can be modified to weight by GZH morpholgy, split by redshift and by enviroment. Outputs a final 2-d array to by plotted on a 2D-hist showing weight walker postions. This code is run out the glamdring and final output copyied across.
 
 * ``plot.py`` plots the 2D-hist of and marginal 1D histograms of the final combined starpy output produced by ``process.py``. Plots are smoothed. Needs corner.py installed see [here](https://github.com/dfm/corner.py). This code is run off the glamdring.
