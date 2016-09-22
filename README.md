@@ -77,7 +77,7 @@ python3 starpy.py VmJ(2) err_VmJ(2) UmV(2) err_UmV(2) z(2) ID(2) ra(2) dec(2)
 .           .               .           .         .         .    .     .     .
 ```
 
-The VmJ values have a standard error of 0.139951, and the UmV error have a value of 0.099356. These values were calculated in the following way. Noticing that the errors in apature flux for U,V and J bands are relatively small in ```UVISTA_full_v4.1.fits```, the main source of error comes from the calculation of rest frame colours using the EAZY code. We calculate errors using the error template funciton for the EAZY code found in Brammer et al (2006)[7]
+The VmJ values have a standard error of 0.139951, and the UmV error have a value of 0.099356. These values were calculated in the following way. Noticing that the errors in apature flux for U,V and J bands are relatively small in ```UVISTA_full_v4.1.fits```, the main source of error comes from the calculation of rest frame colours using the EAZY code. We calculate errors using the error template funciton for the EAZY code found in Brammer et al (2006)[7], Figure 3.
 
 Running the multirun smethhurst command in this directory with a queue and number of nodes specfied will run starpy for each of the set of params in params.txt deleteing rows in param.txt when the have been computed and output saved. An exaple of a run command is below
 
@@ -102,4 +102,4 @@ Running the multirun smethhurst command in this directory with a queue and numbe
 
 [6] Darvish, Behnam, et al. "Effects of Local Environment and Stellar Mass on Galaxy Quenching out to z~ 3." arXiv preprint arXiv:1605.03182 (2016). DOI: [10.3847/0004-637X/825/2/113](10.3847/0004-637X/825/2/113)
 
-[7] Brammer, Gabriel B., Pieter G. van Dokkum, and Paolo Coppi. "EAZY: A fast, public photometric redshift code." The Astrophysical Journal 686.2 (2008): 1503. DOI
+[7] Brammer, Gabriel B., Pieter G. van Dokkum, and Paolo Coppi. "EAZY: A fast, public photometric redshift code." The Astrophysical Journal 686.2 (2008): 1503. DOI [10.1086/591786](10.1086/591786)
