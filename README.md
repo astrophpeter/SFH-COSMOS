@@ -114,7 +114,7 @@ lnprob_...
 
 * Star-forming population is nearly completely abscent of featured galaxies. (See Muzzin Fig9)
 
-* Across over density Star formation rate is lower and approx constant for smooth galaxies, whereas Specific Star formation rate is lower for featured galaxies. In contradiction to Darvish et al (2016) which suggest decline across over density. (See Darvish2016Fig1)
+* Across over density Star formation rate is lower and approx constant for smooth galaxies, whereas Specific Star formation rate is lower for featured galaxies. In contradiction to Darvish et al (2016) which suggest decline across over density. Higher redshift high SFR and sSFR. (See Darvish2016Fig1)
 
 * When bined by stellar mass, smooth galaxies have a lower SFR across over-density. Over both redshift bins. Higher redshift has higher SFR genreally across stellar mass bins. (See Darvish2016Fig1)
 
