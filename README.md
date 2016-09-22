@@ -70,8 +70,8 @@ All required modules are intalled correctly on my glamdring account.
 To run this code for many galaxies on glamdring you will need to create a ``params.txt`` file and save it in the same directory as ``starpy.py``. ``params.txt should have the following format:
 
 ```
-python3 starpy.py v_j(1) err_v_j(1) u_v(1) err_u_v(1) z(1) ID(1) ra(1) dec(1)
-python3 starpy.py v_j(2) err_v_j(2) u_v(2) err_u_v(2) z(2) ID(2) ra(2) dec(2)
+python3 starpy.py VmJ(1) err_VmJ(1) UmV(1) err_UmV(1) z(1) ID(1) ra(1) dec(1)
+python3 starpy.py VmJ(2) err_VmJ(2) UmV(2) err_UmV(2) z(2) ID(2) ra(2) dec(2)
 .           .               .           .         .         .    .     .     .
 .           .               .           .         .         .    .     .     .
 .           .               .           .         .         .    .     .     .
