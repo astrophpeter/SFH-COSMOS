@@ -90,12 +90,16 @@ adds a job to th cmb queue using 2 cores, runing all the sets of parameters foun
 
 I've run this over the whole COMSMOS sample that we have GZH morphologies for. Saved on my glamdring account is the following output. Walker positions named as:
 
-```samples_....```
+```samples_...
+```
 
 and coresponding logrithmic probabilities named as 
 
-```lnprob_...```
+```lnprob_...
+```
+* ``process.py`` combines all the starpyoutput on glamdring. Drops walker postions with probabilty < 0.2 and also weights by the logrithmic probabilty. Can be modified to weight by GZH morpholgy, split by redshift and by enviroment. Outputs a final 2-d array to by plotted on a 2D-hist showing weight walker postions.
 
+* 
 
 ## Refernces
 [1] Darvish, Behnam, et al. "A comparative study of density field estimation for galaxies: New insights into the evolution of galaxies with environment in cosmos out to Z∼ 3." The Astrophysical Journal 805.2 (2015): 121. DOI:
