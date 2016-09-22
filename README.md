@@ -60,7 +60,7 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 
 * ``Darvish2016Fig2.pdf`` This is a version of Figure 2 from Darvish et al (2016) [6], with GZH morphology overlaid. Binned by Stellar mass. (LMASS_1).
 
-*``Darvish2016Fig2.py`` Generating code for ``Darvish2016Fig2.pdf``.
+* ``Darvish2016Fig2.py`` Generating code for ``Darvish2016Fig2.pdf``.
 
 
 ``starpy/``
@@ -69,7 +69,7 @@ All analysis in this section was done with a modified version of starpy. The onl
 
 All required modules are intalled correctly on my glamdring account.
 
-To run this code for many galaxies on glamdring you will need to create a ``params.txt`` file and save it in the same directory as ``starpy.py``. ``params.txt should have the following format:
+To run this code for many galaxies on glamdring you will need to create a ``params.txt`` file and save it in the same directory as ``starpy.py``. ``params.txt`` should have the following format:
 
 ```
 python3 starpy.py VmJ(1) err_VmJ(1) UmV(1) err_UmV(1) z(1) ID(1) ra(1) dec(1)
@@ -94,14 +94,12 @@ I've run this over the whole COMSMOS sample that we have GZH morphologies for. S
 
 ```
 samples_...
-
 ```
 
 and coresponding logrithmic probabilities named as 
 
 ```
 lnprob_...
-
 ```
 
 * ``process.py`` combines all the starpyoutput on glamdring. Drops walker postions with probabilty < 0.2 and also weights by the logrithmic probabilty. Can be modified to weight by GZH morpholgy, split by redshift and by enviroment. Outputs a final 2-d array to by plotted on a 2D-hist showing weight walker postions. This code is run out the glamdring and final output copyied across.
@@ -112,6 +110,9 @@ lnprob_...
 
 * ``plots/`` Coressponding plots for all the output in ``process-out/``, again 2D-hists are smoothed.
 
+##Summary of Main Results
+
+* 
 
 
 ## Refernces
