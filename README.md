@@ -101,7 +101,10 @@ and coresponding logrithmic probabilities named as
 
 * ``plot.py`` plots the 2D-hist of and marginal 1D histograms of the final combined starpy output produced by ``process.py``. Plots are smoothed. Needs corner.py installed see [here](https://github.com/dfm/corner.py). This code is run off the glamdring.
 
-* 
+* ``process-out/`` output from ``process.py``. for galaxies weighted by GZH morphology, and split by overdensity for two redshift bins.
+
+* ``plots/`` Coressponding plots for all the output in ``process-out/``, again 2D-hists are smoothed.
+
 
 
 ## Refernces
