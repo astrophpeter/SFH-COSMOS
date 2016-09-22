@@ -120,7 +120,7 @@ lnprob_...
 
 * SHF isn't dependant on smooth / featured morphology. Even for red type galaxies only. Red type were selected by plotting ditribution of VmJ colour and dividing bimodal population by eye VmJ < 0.95. (see starpyplots)
 
-* SHF is depandant on enviroment. 
+* SHF is depandant on enviroment. For low bin redshift (0-0.5) Med-High over-desnities mean greater tq. Larger hump in tq. Low over-desnity no hump in tq.
 
 
 
