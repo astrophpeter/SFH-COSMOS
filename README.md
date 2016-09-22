@@ -118,6 +118,11 @@ lnprob_...
 
 * When bined by stellar mass, smooth galaxies have a lower SFR across over-density. Over both redshift bins. Higher redshift has higher SFR genreally across stellar mass bins. (See Darvish2016Fig1)
 
+* SHF isn't dependant on smooth / featured morphology. Even for red type galaxies only. Red type were selected by plotting ditribution of VmJ colour and dividing bimodal population by eye VmJ < 0.95. (see starpyplots)
+
+* SHF is depandant on enviroment. 
+
+
 
 ## Refernces
 [1] Darvish, Behnam, et al. "A comparative study of density field estimation for galaxies: New insights into the evolution of galaxies with environment in cosmos out to Z∼ 3." The Astrophysical Journal 805.2 (2015): 121. DOI:
