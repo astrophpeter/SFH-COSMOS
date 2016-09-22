@@ -65,7 +65,7 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 
 ``starpy/``
 
-All analysis in this section was done with a modified version of starpy. The only place this code was changed was the filter specific part. Where filters where reaplced with the corrected filters for the COSMOS survey. This code was run on the Glamdring compute cluster, and the output saved to my account. The way starpy is run is exactly the same as the original code wich can be found [here](https://github.com/rjsmethurst/starpy).
+All analysis in this section was done with a modified version of starpy. The only place this code was changed was the filter specific part. Where filters where reaplced with the corrected filters for the COSMOS survey. Found in Miaz et al (2006) [8]. This code was run on the Glamdring compute cluster, and the output saved to my account. The way starpy is run is exactly the same as the original code wich can be found [here](https://github.com/rjsmethurst/starpy).
 
 All required modules are intalled correctly on my glamdring account.
 
@@ -140,3 +140,5 @@ lnprob_...
 [6] Darvish, Behnam, et al. "Effects of Local Environment and Stellar Mass on Galaxy Quenching out to z~ 3." arXiv preprint arXiv:1605.03182 (2016). DOI: [10.3847/0004-637X/825/2/113](10.3847/0004-637X/825/2/113)
 
 [7] Brammer, Gabriel B., Pieter G. van Dokkum, and Paolo Coppi. "EAZY: A fast, public photometric redshift code." The Astrophysical Journal 686.2 (2008): 1503. DOI [10.1086/591786](10.1086/591786)
+
+[8] Apellaniz, J. Maiz. "A recalibration of optical photometry: Tycho-2, Strömgren, and Johnson systems." The Astronomical Journal 131.2 (2006): 1184. DOI: [10.1086/499158](10.1086/499158)
