@@ -112,6 +112,8 @@ lnprob_...
 
 ##Summary of Main Results
 
+* Star-forming population is nearly completely abscent of featured galaxies. (See Muzzin Fig9)
+
 * 
 
 
