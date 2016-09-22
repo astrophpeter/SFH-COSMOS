@@ -75,8 +75,10 @@ python3 starpy.py VmJ(2) err_VmJ(2) UmV(2) err_UmV(2) z(2) ID(2) ra(2) dec(2)
 .           .               .           .         .         .    .     .     .
 .           .               .           .         .         .    .     .     .
 .           .               .           .         .         .    .     .     .
-
 ```
+
+The VmJ values have a standard error of 0.139951, and the UmV error have a value of 0.099356.
+
 Running the multirun smethhurst command in this directory with a queue and number of nodes specfied will run starpy for each of the set of params in params.txt deleteing rows in param.txt when the have been computed and output saved. An exaple of a run command is below
 
 ```
