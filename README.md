@@ -88,7 +88,13 @@ addqueuecmb "mulit-run" 2 /usr/local/shared/bin/multirunsmethurst
 ```
 adds a job to th cmb queue using 2 cores, runing all the sets of parameters found in ``params.txt``.
 
-I've run this over the whole COMSMOS sample that we have GZH morphologies for.
+I've run this over the whole COMSMOS sample that we have GZH morphologies for. Saved on my glamdring account is the following output. Walker positions named as:
+
+```samples_....```
+
+and coresponding logrithmic probabilities named as 
+
+`````lnprob_...```
 
 
 ## Refernces
