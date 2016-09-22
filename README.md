@@ -65,6 +65,8 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 
 All analysis in this section was done with a modified version of starpy. The only place this code was changed was the filter specific part. Where filters where reaplced with the corrected filters for the COSMOS survey. This code was run on the Glamdring compute cluster, and the output saved to my account. The way starpy is run is exactly the same as the original code wich can be found [here](https://github.com/rjsmethurst/starpy).
 
+All required modules are intalled correctly on my glamdring account.
+
 To run this code for many galaxies on glamdring you will need to create a ``params.txt`` file and save it in the same directory as ``starpy.py``. ``params.txt should have the following format:
 
 ```
