@@ -132,7 +132,7 @@ lnprob_...
 
 [3] Galaxy Zoo: Morphological Classifications for 120,000 Galaxies in HST Legacy Imaging Paper current being written can be found in this [repo](https://github.com/willettk/gzhubble/blob/master/writeup/gz_hubble_data.pdf)
 
-[4] Muzzin follow up paper.
+[4] Muzzin, Adam, et al. "THE EVOLUTION OF THE STELLAR MASS FUNCTIONS OF STAR-FORMING AND QUIESCENT GALAXIES TO z= 4 FROM THE COSMOS/UltraVISTA SURVEYBased on data products from observations made with ESO Telescopes at the La Silla Paranal Observatory under ESO programme ID 179. A-2005 and on data products produced by TERAPIX and the Cambridge Astronomy Survey Unit on behalf of the UltraVISTA consortium." The Astrophysical Journal 777.1 (2013): 18. DOI: [10.1088/0004-637X/777/1/18](10.1088/0004-637X/777/1/18)
 
 [5] Kauffmann, Guinevere, et al. "The dependence of star formation history and internal structure on stellar mass for 105 low-redshift galaxies." Monthly Notices of the Royal Astronomical Society 341.1 (2003): 54-69. DOI:
 [10.1046/j.1365-8711.2003.06292.x](10.1046/j.1365-8711.2003.06292.x)
