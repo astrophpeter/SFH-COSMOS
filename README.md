@@ -66,16 +66,20 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 All analysis in this section was done with a modified version of starpy. The only place this code was changed was the filter specific part. Where filters where reaplced with the corrected filters for the COSMOS survey. This code was run on the Glamdring compute cluster, and the output saved to my account. The way starpy is run is exactly the same as the original code wich can be found [here](https://github.com/rjsmethurst/starpy).
 
 To run this code for many galaxies on glamdring you will need to create a ``params.txt`` file and save it in the same directory as ``starpy.py``. ``params.txt should have the following format:
-```
-python3 starpy.py u_r(1) err_u_r(1) nuv_u(1) err_nuv_u(1) z(1) ID(1) ra(1) dec(1)
-python3 starpy.py u_r(2) err_u_r(2) nuv_u(2) err_nuv_u(2) z(2) ID(2) ra(2) dec(2)
-.           .               .           .         .         .    .     .     .
-.           .               .           .         .         .    .     .     .
-.           .               .           .         .         .    .     .     .
 
 ```
+python3 starpy.py v_j(1) err_v_j(1) u_v(1) err_u_v(1) z(1) ID(1) ra(1) dec(1)
+python3 starpy.py v_j(2) err_v_j(2) u_v(2) err_u_v(2) z(2) ID(2) ra(2) dec(2)
+.           .               .           .         .         .    .     .     .
+.           .               .           .         .         .    .     .     .
+.           .               .           .         .         .    .     .     .
 
+```
+Running the multirun smethhurst command in this directory with a queue and number of nodes specfied will run starpy for each of the set of params in params.txt deleteing rows in param.txt when the have been computed and output saved. An exaple of a run command is below
 
+```
+
+```
 
 
 
