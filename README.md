@@ -58,7 +58,9 @@ The catalog also contains apeture fluxes for many bands with errors. Other data 
 
 ``Darvish2016Fig2/``
 
-*
+* ``Darvish2016Fig2.pdf`` This is a version of Figure 2 from Darvish et al (2016) [6], with GZH morphology overlaid. Binned by Stellar mass. (LMASS_1).
+
+*``Darvish2016Fig2.py`` Generating code for ``Darvish2016Fig2.pdf``.
 
 
 ``starpy/``
