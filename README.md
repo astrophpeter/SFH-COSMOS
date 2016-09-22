@@ -94,7 +94,7 @@ I've run this over the whole COMSMOS sample that we have GZH morphologies for. S
 
 and coresponding logrithmic probabilities named as 
 
-`````lnprob_...```
+```lnprob_...```
 
 
 ## Refernces
