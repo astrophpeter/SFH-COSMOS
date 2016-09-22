@@ -97,9 +97,12 @@ and coresponding logrithmic probabilities named as
 
 ```lnprob_...
 ```
-* ``process.py`` combines all the starpyoutput on glamdring. Drops walker postions with probabilty < 0.2 and also weights by the logrithmic probabilty. Can be modified to weight by GZH morpholgy, split by redshift and by enviroment. Outputs a final 2-d array to by plotted on a 2D-hist showing weight walker postions.
+* ``process.py`` combines all the starpyoutput on glamdring. Drops walker postions with probabilty < 0.2 and also weights by the logrithmic probabilty. Can be modified to weight by GZH morpholgy, split by redshift and by enviroment. Outputs a final 2-d array to by plotted on a 2D-hist showing weight walker postions. This code is run out the glamdring and final output copyied across.
+
+* ``plot.py`` plots the 2D-hist of and marginal 1D histograms of the final combined starpy output produced by ``process.py``. Plots are smoothed. Needs corner.py installed see [here](https://github.com/dfm/corner.py). This code is run off the glamdring.
 
 * 
+
 
 ## Refernces
 [1] Darvish, Behnam, et al. "A comparative study of density field estimation for galaxies: New insights into the evolution of galaxies with environment in cosmos out to Z∼ 3." The Astrophysical Journal 805.2 (2015): 121. DOI:
