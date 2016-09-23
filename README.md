@@ -21,7 +21,7 @@ All of this analysis was performed using [ULTRA-VISTA catalog data](https://www.
 | z_peak             | Best value of redshift            | In all analysis the value for redshift used is z_peak   |
 | SFR_IR             | SFR from IR Luminosity            | Negative values of SFR indicate -1.0*(upper limit SFR) <br> from MIPS-24um | 
 | SFR_UV             | SFR form UV Luminosity            |                                                        |
-| SFR_tot            | Total Star formation rate         | Sum of UV and IR SFRs, **we don't include SFR_tot where <br> SFR_IR < 0**, because negative values of SFR indicate -1.0*(upper limit SFR) from MIPS-24um                                     | 
+| SFR_tot            | Total Star formation rate         | Sum of UV and IR SFRs, **we don't include SFR_tot where <br> SFR_IR < 0**, because negative values of SFR indicate -1.0*(upper limit SFR) from MIPS-24um (Sum method in [2])                                    | 
 | VmJ                | V - J rest frame colour           | Calculated using the EAZY code. Note no errors, this is addressed later |
 | UmV                | U - V rest frame colour           | Calculated using the EAZY code. Note no errors, this is addressed later |
 | USE_1              | Flag                              | This selects galaxies with good photometry S/N > 5.    |
