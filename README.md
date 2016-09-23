@@ -120,7 +120,7 @@ lnprob_...
 
 * SHF isn't dependant on smooth / featured morphology. Even for red type galaxies only. Red type were selected by plotting distribution of VmJ colour and dividing bimodal population by eye VmJ < 0.95. (see starpyplots)
 
-* SHF is dependant on enviroment. For low bin redshift (0-0.5) Med-High over-densities mean greater tq. Larger hump in tq. Low over-density no hump in tq.
+* SHF is dependant on enviroment. For low bin redshift (0-0.5) Med-High over-densities mean lower tq. Larger hump in tq. Low over-density no hump in tq.
 
 
 
