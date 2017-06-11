@@ -114,13 +114,13 @@ lnprob_...
 
 * Star-forming population is nearly completely absent of featured galaxies. (See Muzzin Fig9)
 
-* Across overdensity star formation rate is lower and approx constant for smooth galaxies, whereas specific star formation rate is lower for featured galaxies. In contradiction to Darvish et al (2016) which suggest decline across overdensity. Higher redshift, high SFR and sSFR. (See Darvish2016Fig1)
+* Across overdensity star formation rate is lower and approx constant for smooth galaxies, whereas specific star formation rate is lower for featured galaxies. In contradiction to Darvish et al. (2016) which suggest decline across overdensity. Higher redshift, high SFR and sSFR. (See Darvish2016Fig1)
 
 * When binned by stellar mass, smooth galaxies have a lower SFR across overdensity. Over both redshift bins. Higher redshift has higher SFR generally across stellar mass bins. (See Darvish2016Fig1)
 
 * SHF isn't dependant on smooth / featured morphology. Even for red type galaxies only. Red type were selected by plotting distribution of VmJ colour and dividing bimodal population by eye VmJ < 0.95. (see starpyplots)
 
-* SHF is dependant on environment. For low bin redshift (0-0.5) Med-High over-densities mean lower tq. Larger hump in tq. Low overdensity no hump in tq.
+* SHF is dependant on environment. For low bin redshift (0-0.5) Med-High overdensities mean lower tq. Larger hump in tq. Low overdensity no hump in tq.
 
 ## Conculsions
 
