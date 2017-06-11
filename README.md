@@ -128,7 +128,7 @@ lnprob_...
 
 ### Screen shots of the ipython notebook for my U-V , V-J lookup tables.
 
-* These were genreated for 0<z<6, but only used them for 0<z<1 - (possible issue?)
+* These were genreated for 0<z<6, but only used them for 0<z<1 - (possible resolution issue?)
 
 ![alt text](https://github.com/petermcgill94/SFH-COSMOS/blob/master/Screen%20Shot%202016-08-11%20at%2015.22.02.png)
 
