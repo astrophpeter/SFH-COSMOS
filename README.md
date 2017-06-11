@@ -112,31 +112,31 @@ lnprob_...
 
 ## Summary of Main Results
 
-* Star-forming population is nearly completely abscent of featured galaxies. (See Muzzin Fig9)
+* Star-forming population is nearly completely absent of featured galaxies. (See Muzzin Fig9)
 
-* Across over density star formation rate is lower and approx constant for smooth galaxies, whereas specific star formation rate is lower for featured galaxies. In contradiction to Darvish et al (2016) which suggest decline across over density. Higher redshift high SFR and sSFR. (See Darvish2016Fig1)
+* Across overdensity star formation rate is lower and approx constant for smooth galaxies, whereas specific star formation rate is lower for featured galaxies. In contradiction to Darvish et al (2016) which suggest decline across overdensity. Higher redshift, high SFR and sSFR. (See Darvish2016Fig1)
 
-* When binned by stellar mass, smooth galaxies have a lower SFR across over-density. Over both redshift bins. Higher redshift has higher SFR generally across stellar mass bins. (See Darvish2016Fig1)
+* When binned by stellar mass, smooth galaxies have a lower SFR across overdensity. Over both redshift bins. Higher redshift has higher SFR generally across stellar mass bins. (See Darvish2016Fig1)
 
 * SHF isn't dependant on smooth / featured morphology. Even for red type galaxies only. Red type were selected by plotting distribution of VmJ colour and dividing bimodal population by eye VmJ < 0.95. (see starpyplots)
 
-* SHF is dependant on enviroment. For low bin redshift (0-0.5) Med-High over-densities mean lower tq. Larger hump in tq. Low over-density no hump in tq.
+* SHF is dependant on environment. For low bin redshift (0-0.5) Med-High over-densities mean lower tq. Larger hump in tq. Low overdensity no hump in tq.
 
 ## Conculsions
 
-* Darvish results suggest morphology dependence, starpy suggest otherwise - we see no difference for smooth / feature even for red galaxies.
-* However, we do see a dependence on enviroment - for low over density we see strong evidence for recent quenching
-* Could high over density enviroment galxies have been quenched out of UVJ colour by mergers?
-* Galaxies in high over density are likely to have just gotten there - merged and quenched recently.
+* Darvish results suggest morphology dependence, Starpy suggests otherwise - we see no difference for smooth / featured, even for red galaxies.
+* However, we do see a dependence on environment - for low overdensity we see strong evidence for recent quenching
+* Could high overdensity environment galxies have been quenched out of UVJ colour by mergers?
+* Galaxies in high overdensity are likely to have just gotten there - merged and quenched recently.
 
 
 ## Current Issues and To-do list
 
-* Colour Degeneracy plots don't match starpy output, why?
+* Colour Degeneracy plots don't match Starpy output, why?
 
 ### Screen shots of the ipython notebook for my U-V , V-J lookup tables.
 
-* These were genreated for 0<z<6, but only used them for 0<z<1 - (possible resolution issue?)
+* These were generated for 0<z<6, but only used them for 0<z<1 - (possible resolution issue?)
 
 ![alt text](https://github.com/petermcgill94/SFH-COSMOS/blob/master/Screen%20Shot%202016-08-11%20at%2015.22.02.png)
 
@@ -149,12 +149,12 @@ lnprob_...
 ![alt text](https://github.com/petermcgill94/SFH-COSMOS/blob/master/examplestarpy.png)
 
 * Possible fixes - axes error, I'm not forcing (0,0) to be at bottom left - will investigate today.
-* I'm having to do a lot of smoothing to get rid of the vertical lines in the plot above is that a problem, why might this be happening?
-* All my UVJ Colours have a constant error from the.EAZY code used to claculate the rest frame colours, the justification for this was that EAZY code error >> aperture flux for U,V and J bands in the data tables, might this be an issue?
+* I'm having to do a lot of smoothing to get rid of the vertical lines in the plot above, is that a problem, why might this be happening?
+* All my UVJ Colours have a constant error from the.EAZY code used to calculate the rest frame colours, the justification for this was that EAZY code error >> aperture flux for U,V and J bands in the data tables, might this be an issue?
 
 ### Other issues
-* Intersection of galaxies with enviroment and GZ morphology data is small, possibly use GZ morphology as a tracer for over density?
-* Better way of splitting galxies by enviroment thant just dividing them in to arbitrary bins.
+* Intersection of galaxies with environment and GZ morphology data is small, possibly use GZ morphology as a tracer for overdensity?
+* Better way of splitting galxies by environment than just dividing them into arbitrary bins.
 
 
 ## References
