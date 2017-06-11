@@ -110,7 +110,7 @@ lnprob_...
 
 * ``plots/`` Corresponding plots for all the output in ``process-out/``, again 2D-hists are smoothed.
 
-##Summary of Main Results
+## Summary of Main Results
 
 * Star-forming population is nearly completely abscent of featured galaxies. (See Muzzin Fig9)
 
