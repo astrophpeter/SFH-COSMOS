@@ -1,6 +1,6 @@
 # SFH-COSMOS
 
-###Description of Contents
+### Description of Contents
 
 ``data/``
 
@@ -123,6 +123,10 @@ lnprob_...
 * SHF is dependant on enviroment. For low bin redshift (0-0.5) Med-High over-densities mean lower tq. Larger hump in tq. Low over-density no hump in tq.
 
 ## Current Issues and To-do list
+
+* Colour Degeneracy plots don't match starpy output and are very similar to NUV-r, why?
+
+* Intersection of galaxies with enviroment and GZ morphology data is small, possibly use GZ morphology as a tracer for over density?
 
 
 ## References
