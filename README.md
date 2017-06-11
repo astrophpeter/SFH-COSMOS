@@ -136,7 +136,7 @@ lnprob_...
 
 ### Example Starpy output plot
 
-![alt text](https://github.com/petermcgill94/SFH-COSMOS/blob/master/starpy/plots/z-0-0.5-smooth.pdf)
+![alt text](https://github.com/petermcgill94/SFH-COSMOS/blob/master/examplestarpy.png)
 
 * Possible fixes - axes error, I'm not forcing (0,0) to be at bottom right - will investigate today.
 * I'm having to do a lot of smoothing to get rid of the vertical lines in the plot above is that a problem?
