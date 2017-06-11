@@ -122,6 +122,14 @@ lnprob_...
 
 * SHF is dependant on enviroment. For low bin redshift (0-0.5) Med-High over-densities mean lower tq. Larger hump in tq. Low over-density no hump in tq.
 
+## Conculsions
+
+* Darvish results suggest morphology dependence, starpy suggest otherwise - we see no difference for smooth / feature even for red galaxies.
+* However, we do see a dependence on enviroment - for low over density we see strong evidence for recent quenching
+* Could high over density enviroment galxies have been quenched out of UVJ colour by mergers?
+* Galaxies in high over density are likely to have just gotten there - merged and quenched recently.
+
+
 ## Current Issues and To-do list
 
 * Colour Degeneracy plots don't match starpy output, why?
