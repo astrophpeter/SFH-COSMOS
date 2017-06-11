@@ -126,8 +126,13 @@ lnprob_...
 
 * Colour Degeneracy plots don't match starpy output, why?
 
+# Screen shots of the ipython notebook for my U-V , V-J lookup tables.
+
 ![alt text](https://github.com/petermcgill94/SFH-COSMOS/blob/master/Screen%20Shot%202016-08-11%20at%2015.22.02.png)
 
+![alt text](https://github.com/petermcgill94/SFH-COSMOS/blob/master/Screen%20Shot%202016-08-11%20at%2015.22.37.png)
+
+# Example Starpy output plot
 
 * Intersection of galaxies with enviroment and GZ morphology data is small, possibly use GZ morphology as a tracer for over density?
 
