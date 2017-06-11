@@ -124,7 +124,10 @@ lnprob_...
 
 ## Current Issues and To-do list
 
-* Colour Degeneracy plots don't match starpy output and are very similar to NUV-r, why?
+* Colour Degeneracy plots don't match starpy output, why?
+
+![alt text]
+
 
 * Intersection of galaxies with enviroment and GZ morphology data is small, possibly use GZ morphology as a tracer for over density?
 
