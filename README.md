@@ -138,10 +138,13 @@ lnprob_...
 
 ![alt text](https://github.com/petermcgill94/SFH-COSMOS/blob/master/examplestarpy.png)
 
-* Possible fixes - axes error, I'm not forcing (0,0) to be at bottom right - will investigate today.
-* I'm having to do a lot of smoothing to get rid of the vertical lines in the plot above is that a problem?
+* Possible fixes - axes error, I'm not forcing (0,0) to be at bottom left - will investigate today.
+* I'm having to do a lot of smoothing to get rid of the vertical lines in the plot above is that a problem, why might this be happening?
+* All my UVJ Colours have a constant error from the.EAZY code used to claculate the rest frame colours, the justification for this was that EAZY code error >> aperture flux for U,V and J bands in the data tables, might this be an issue?
 
+### Other issues
 * Intersection of galaxies with enviroment and GZ morphology data is small, possibly use GZ morphology as a tracer for over density?
+* Better way of splitting galxies by enviroment thant just dividing them in to arbitrary bins.
 
 
 ## References
