@@ -126,7 +126,7 @@ lnprob_...
 
 * Colour Degeneracy plots don't match starpy output, why?
 
-![alt text]
+![alt text](https://github.com/petermcgill94/SFH-COSMOS/blob/master/Screen%20Shot%202016-08-11%20at%2015.22.02.png)
 
 
 * Intersection of galaxies with enviroment and GZ morphology data is small, possibly use GZ morphology as a tracer for over density?
