@@ -118,9 +118,9 @@ lnprob_...
 
 * When binned by stellar mass, smooth galaxies have a lower SFR across overdensity. Over both redshift bins. Higher redshift has higher SFR generally across stellar mass bins. (See Darvish2016Fig1)
 
-* SHF isn't dependant on smooth / featured morphology. Even for red type galaxies only. Red type were selected by plotting distribution of VmJ colour and dividing bimodal population by eye VmJ < 0.95. (see starpyplots)
+* SHF isn't dependent on smooth / featured morphology. Even for red type galaxies only. Red type were selected by plotting distribution of VmJ colour and dividing bimodal population by eye VmJ < 0.95. (see starpyplots)
 
-* SHF is dependant on environment. For low bin redshift (0-0.5) Med-Low have large hump in tq. High overdensity no hump in tq.
+* SHF is dependent on environment. For low bin redshift (0-0.5) Med-Low have large hump in tq. High overdensity no hump in tq.
 
 ## Conculsions
 
