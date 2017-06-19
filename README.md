@@ -28,6 +28,16 @@ All of this analysis was performed using [ULTRA-VISTA catalog data](https://www.
 
 The catalog also contains apeture fluxes for many bands with errors. Other data files are combined of the above files, and are named appropriately. They were matched equally with TOPCAT by RA and Dec with error +- 3.0.
 
+### Note on filers:
+
+from Muzzin et al 2013: We calculate rest-frame U - V and V - J colors for all
+galaxies using EAZY. EAZY determines the colors by
+integrating the best-fit SED through the redshifted filter
+curves over the appropriate wavelength range. For the U
+and V filter we use the response curves defined in Ma´ız
+Apell´aniz (2006), and for the J filter we used the 2MASS
+filter curve from Skrutskie et al. (2006). The rest-frame
+U - V and V - J colors are listed in Table 6. 
 
 
 ``muzzing2013Fig9/``
